@@ -6780,10 +6780,14 @@ font-size: 25px !important;
   color: #fff
 }
 
+
+body{
+	background-color: #f94907 !important;
+}
+
 @media(max-width: 575px){
   .comming-soon-area{
     padding: 30px 0 !important;
-	   height: 100vh !important;
   }
   .logo{
     display: flex;
